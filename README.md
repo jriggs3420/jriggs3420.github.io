@@ -1,2 +1,3 @@
 # jriggs3420.github.io
-data science portfolio website
+Data Science Portfiolio Website:
+(jriggs3420.github.io)[https://jriggs3420.github.io/]
